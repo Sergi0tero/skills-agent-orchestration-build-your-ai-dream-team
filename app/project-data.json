@@ -1,0 +1,36 @@
+{
+  "projects": [
+    {
+      "name": "Community Hub",
+      "owner": "Avery Chen",
+      "status": "In Progress",
+      "recentActivity": "Member interviews wrapped; the first navigation prototype is ready for review.",
+      "priority": "High",
+      "summary": "A welcoming home for members to find resources, connect, and share what they’re building."
+    },
+    {
+      "name": "Greenlight Grants",
+      "owner": "Jordan Rivera",
+      "status": "On Track",
+      "recentActivity": "The review team approved the application rubric and opened the next round.",
+      "priority": "Medium",
+      "summary": "Making small, practical grants easier to discover and simpler to apply for."
+    },
+    {
+      "name": "Field Notes",
+      "owner": "Sam Okafor",
+      "status": "At Risk",
+      "recentActivity": "Two partner interviews moved to next week; the research timeline is being updated.",
+      "priority": "High",
+      "summary": "Turning on-the-ground insights into useful playbooks for local teams."
+    },
+    {
+      "name": "Open Doors",
+      "owner": "Taylor Brooks",
+      "status": "Planning",
+      "recentActivity": "The team shortlisted three pilot locations and is gathering accessibility feedback.",
+      "priority": "Low",
+      "summary": "Helping more people find clear, accessible routes into community programs."
+    }
+  ]
+}
